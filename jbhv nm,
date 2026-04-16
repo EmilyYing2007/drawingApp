@@ -1,1 +1,6 @@
-
+''' Include a triple-quoted string at the top of 
+your code that briefly describes the key features
+that you want us to grade. If it is not obvious,
+you also need to include brief instructions for 
+graders explaining how to make those features visible.
+'''
